@@ -1,6 +1,6 @@
 # only_todo
 
-Only TODO is a simple app that helps you focus on what really matters at that moment!
+Start point to create android apps
 
 ## Getting Started
 

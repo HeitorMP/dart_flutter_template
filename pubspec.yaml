@@ -1,5 +1,5 @@
-name: only_todo
-description: Only TODO is a simple app that helps you focus on what really matters at that moment!
+name: template
+description: Template!
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
