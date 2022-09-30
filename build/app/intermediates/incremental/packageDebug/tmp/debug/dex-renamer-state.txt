@@ -1,0 +1,4 @@
+#Fri Sep 30 13:32:41 WEST 2022
+base.0=/home/hmaciel-/Dev/kbr_soft/flutter-projects/only_todo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
