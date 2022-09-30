@@ -1,4 +1,4 @@
-# only_todo
+# template
 
 Start point to create android apps
 
